@@ -1,0 +1,3 @@
+1) true, берется из rabbit
+2) null, уже берется из animal
+3) underfined, все свойства jumps удалены
