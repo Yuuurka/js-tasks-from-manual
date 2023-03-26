@@ -1,0 +1,1 @@
+instanceof не учитывает функцию, а работает только с prototype, а в коде прописано, что A.prototype = B.prototype
